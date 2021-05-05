@@ -1,5 +1,5 @@
 # VaccineNotifier
-VaccineNotifier checks the cowin portal periodically to find vaccination slots available in your pin code and for your age. If found, it will send you emails every minute until the slots are available.
+VaccineNotifier checks the cowin portal periodically to find vaccination slots available in your pin code and for your age. If found, it will send you emails every minute until the slots are available.- Forked and modified to add multiple pincodes from "kartikey54/VaccineAvailabilityNotifier"
 
 
 <font size="6"> Steps to run the script: </font> 
